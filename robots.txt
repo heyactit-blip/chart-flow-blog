@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://heyactit-blip.github.io/chart-flow-blog/sitemap.xml
