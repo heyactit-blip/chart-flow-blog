@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://heyactit-blip.github.io/chart-flow-blog/about.html</loc><lastmod>2026-10-04</lastmod><priority>0.5</priority></url>
-  <url><loc>https://heyactit-blip.github.io/chart-flow-blog/</loc><lastmod>2026-10-04</lastmod><priority>1.0</priority></url>
-  <url><loc>https://heyactit-blip.github.io/chart-flow-blog/monthly.html</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://heyactit-blip.github.io/chart-flow-blog/about.html</loc><lastmod>2026-10-09</lastmod><priority>0.5</priority></url>
+  <url><loc>https://heyactit-blip.github.io/chart-flow-blog/</loc><lastmod>2026-10-09</lastmod><priority>1.0</priority></url>
+  <url><loc>https://heyactit-blip.github.io/chart-flow-blog/monthly.html</loc><lastmod>2026-10-09</lastmod><priority>0.8</priority></url>
   <url><loc>https://heyactit-blip.github.io/chart-flow-blog/post-2026-07-28.html</loc><lastmod>2026-07-28</lastmod><priority>0.6</priority></url>
   <url><loc>https://heyactit-blip.github.io/chart-flow-blog/post-2026-07-29.html</loc><lastmod>2026-07-29</lastmod><priority>0.6</priority></url>
   <url><loc>https://heyactit-blip.github.io/chart-flow-blog/post-2026-07-30.html</loc><lastmod>2026-07-30</lastmod><priority>0.6</priority></url>
@@ -49,5 +49,8 @@
   <url><loc>https://heyactit-blip.github.io/chart-flow-blog/post-2026-09-30.html</loc><lastmod>2026-09-30</lastmod><priority>0.6</priority></url>
   <url><loc>https://heyactit-blip.github.io/chart-flow-blog/post-2026-10-01.html</loc><lastmod>2026-10-01</lastmod><priority>0.6</priority></url>
   <url><loc>https://heyactit-blip.github.io/chart-flow-blog/post-2026-10-02.html</loc><lastmod>2026-10-02</lastmod><priority>0.6</priority></url>
-  <url><loc>https://heyactit-blip.github.io/chart-flow-blog/weekly.html</loc><lastmod>2026-10-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://heyactit-blip.github.io/chart-flow-blog/post-2026-10-06.html</loc><lastmod>2026-10-06</lastmod><priority>0.6</priority></url>
+  <url><loc>https://heyactit-blip.github.io/chart-flow-blog/post-2026-10-07.html</loc><lastmod>2026-10-07</lastmod><priority>0.6</priority></url>
+  <url><loc>https://heyactit-blip.github.io/chart-flow-blog/post-2026-10-08.html</loc><lastmod>2026-10-08</lastmod><priority>0.6</priority></url>
+  <url><loc>https://heyactit-blip.github.io/chart-flow-blog/weekly.html</loc><lastmod>2026-10-09</lastmod><priority>0.8</priority></url>
 </urlset>
